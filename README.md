@@ -1,6 +1,6 @@
 # CS499-Project
 Description 
-Welcome to our prject! This is a run down on our code (PHP framwork) and file navigation to help anyone who wishes to run and understand our project. 
+Welcome to our project! This is a run down on our code (PHP framwork) and file navigation to help anyone who wishes to run and understand our project. 
 We are working on the agWiki site to implement a report post and hide post functionality. The following files are already implemented: 
 
 Admin: 
@@ -19,4 +19,4 @@ core/resources/views: single-post.blade/php
 css: 
 Includes files: admin, app, routes, storage, tests 
 
-If viewers would like to add on or contribute to this project you would be adding your work in the agwiki-blayzer/core/ files.  
+If viewers would like to add on or contribute to this project you would be adding your work in the agwiki-blayzer/core/ files.
