@@ -1,0 +1,11 @@
+[02-Apr-2020 13:04:59 America/Chicago] PHP Fatal error:  Constant expression contains invalid operations in /home/agwikidev2/agwiki-blayzer/core/app/Http/Controllers/Auth/LoginController.php on line 102
+[02-Apr-2020 13:37:12 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/agwikidev2/agwiki-blayzer/core/app/Http/Controllers/Auth/LoginController.php on line 160
+[29-May-2020 14:29:03 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Undefined variable: path in /home/agwikidev2/agwiki-blayzer/core/app/Http/Controllers/HomeController.php:2464
+Stack trace:
+#0 /home/agwikidev2/agwiki-blayzer/core/app/Http/Controllers/HomeController.php(2464): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/agwikidev...', 2464, Array)
+#1 [internal function]: App\Http\Controllers\HomeController->GeturllinkData(Object(Illuminate\Http\Request))
+#2 /home/agwikidev2/agwiki-blayzer/core/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#3 /home/agwikidev2/agwiki-blayzer/core/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\Routing\Controller->callAction('GeturllinkData', Array)
+#4 /home/agwikidev2/agwiki-blayzer/core/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\HomeController in /home/agwikidev2/agwiki-blayzer/core/app/Http/Controllers/HomeController.php on line 2464
+[29-Jun-2020 21:06:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/agwikidev2/agwiki-blayzer/core/app/Helpers/functions.php on line 89
+[29-Jun-2020 21:26:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/agwikidev2/agwiki-blayzer/core/app/Helpers/functions.php on line 93

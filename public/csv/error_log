@@ -1,0 +1,107 @@
+[12-Jan-2019 15:05:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/agwiki/public_html/core/public/csv/csv_importer.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 226
+[12-Jan-2019 15:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/agwiki/public_html/core/public/csv/csv_importer.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 226
+[12-Jan-2019 15:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/agwiki/public_html/core/public/csv/csv_importer.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 226
+[12-Jan-2019 15:10:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/agwiki/public_html/core/public/csv/csv_importer.php:226
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 226
+[12-Jan-2019 15:13:35 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:13:35 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:13:35 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:13:35 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:13:35 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:13:35 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/agwiki/public_html/core/public/csv/csv_importer.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 230
+[12-Jan-2019 15:15:19 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:15:19 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:15:19 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:15:19 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:15:19 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:15:19 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 15:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_list_dbs() in /home/agwiki/public_html/core/public/csv/csv_importer.php:240
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 240
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:11:43 UTC] PHP Notice:  Undefined variable: mysqli in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 242
+[12-Jan-2019 16:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/agwiki/public_html/core/public/csv/csv_importer.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 242
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:14:45 UTC] PHP Notice:  Undefined variable: mysqli_query in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 242
+[12-Jan-2019 16:14:45 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/agwiki/public_html/core/public/csv/csv_importer.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 242
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:15:11 UTC] PHP Notice:  Undefined variable: mysqli_query in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 242
+[12-Jan-2019 16:15:11 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/agwiki/public_html/core/public/csv/csv_importer.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 242
+[12-Jan-2019 16:18:29 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:18:29 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:18:29 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:18:29 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:18:29 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:18:29 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:21:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 342
+[12-Jan-2019 16:22:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 342
+[12-Jan-2019 16:22:24 UTC] PHP Notice:  Use of undefined constant serverName - assumed 'serverName' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:22:24 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:22:24 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:22:24 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:22:24 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:22:24 UTC] PHP Notice:  Undefined variable: ck_csv in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 222
+[12-Jan-2019 16:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_list_tables() in /home/agwiki/public_html/core/public/csv/csv_importer.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 292
+[12-Jan-2019 16:31:46 UTC] PHP Notice:  Undefined variable: stage in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 36
+[12-Jan-2019 16:31:46 UTC] PHP Notice:  Undefined variable: msg in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 38
+[12-Jan-2019 16:31:46 UTC] PHP Notice:  Undefined variable: display_block in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 42
+[12-Jan-2019 16:31:46 UTC] PHP Notice:  Undefined variable: js_block in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 752
+[27-Jan-2019 19:28:05 UTC] PHP Notice:  Undefined variable: stage in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 36
+[27-Jan-2019 19:28:05 UTC] PHP Notice:  Undefined variable: msg in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 38
+[27-Jan-2019 19:28:05 UTC] PHP Notice:  Undefined variable: display_block in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 42
+[27-Jan-2019 19:28:05 UTC] PHP Notice:  Undefined variable: js_block in /home/agwiki/public_html/core/public/csv/csv_importer.php on line 752
+[27-Jan-2019 19:39:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/agwiki/public_html/core/public/csv/csv2sql.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv2sql.php on line 96
+[27-Jan-2019 19:40:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/agwiki/public_html/core/public/csv/csv2sql.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv2sql.php on line 96
+[27-Jan-2019 19:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/agwiki/public_html/core/public/csv/csv2sql.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/agwiki/public_html/core/public/csv/csv2sql.php on line 96
