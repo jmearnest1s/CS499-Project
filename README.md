@@ -1,7 +1,7 @@
 # CS499-Project
 Description 
 Welcome to our project! This is a run down on our code (PHP framwork) and file navigation to help anyone who wishes to run and understand our project. 
-We are working on the agWiki site to implement a report post and hide post functionality. The following files are already implemented: 
+We are working on the agWiki site to implement a report post and hide post functionality. These functions allow user-to-user moderation and will allow this site to be listed on the Apple App store or the Google play store. The following files are already implemented: 
 
 Admin: 
 Includes files: css, fonts, img, and js 
