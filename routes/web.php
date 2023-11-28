@@ -54,6 +54,10 @@ Route::resource('/rss_feed', 'RssFeedsController');
 Route::get('interests/{slug?}', 'InterestController@index')->name('user.interests');
 
 
+/**************************Report_Post******************
+********************************************************/
+Route::post('/report-post/{post}', 'ReportController@store')->name('report-post.store');
+
 /******************************************************Groups
 
 
