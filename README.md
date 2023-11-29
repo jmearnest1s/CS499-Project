@@ -19,4 +19,8 @@ core/resources/views: single-post.blade/php
 css: 
 Includes files: admin, app, routes, storage, tests 
 
+The major changes were made to the Models file within the app directory and changes to the web.php file within the app/routes directory, there is still some more changes that need to be done and we are currently working on making those changes for the future.
+
+The current application is not functioning as we have not been able to work on the projecect as much as we would have liked due to a delayed start on the project and trying to learn the languange and navigate the already created agwiki directories.
+
 If viewers would like to add on or contribute to this project you would be adding your work in the agwiki-blayzer/core/ files.
