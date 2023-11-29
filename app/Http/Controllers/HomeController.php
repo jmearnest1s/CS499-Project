@@ -15,6 +15,7 @@ use App\Favorite;
 use App\Message;
 use App\Notify;
 use App\Post;
+use App\HidePost;
 use App\Mention;
 use App\Interest;
 use App\Report;
