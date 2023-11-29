@@ -50,6 +50,22 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+    public function hidePostForm($id)
+
+    {
+	$post = Post::findOrFail($id);
+	return view('post.hide', compact('post'));
+    }
+	
+    public function hidePost(Request $request, $id)
+	
+    {
+	$post = Post::findorFail($id);
+	$post->update(['hidden' => true]);
+
+	return redirect()->route('post.index')->with('success', 'Post hidden successfully');
+    }
     public function index()
     {
 
