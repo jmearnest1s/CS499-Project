@@ -32,6 +32,7 @@ Route::get('/ajaxpage', 'HomeController@ajaxpage')->name('ajaxpage');
 #});
 
 
+
 Route::get('/terms', 'FrontController@terms')->name('terms');
 Route::get('/privacy', 'FrontController@privacy')->name('privacy');
 /******************************************************Cron Routes*******************************************************************************/
@@ -57,6 +58,13 @@ Route::get('interests/{slug?}', 'InterestController@index')->name('user.interest
 /**************************Report_Post******************
 ********************************************************/
 Route::post('/report-post/{post}', 'ReportController@store')->name('report-post.store');
+
+
+/**********************HidePost**************************
+********************************************************/
+Route::get('/posts/{id}/hide', [PostController::class, 'hidePostForm'])->name('posts.hideForm');
+Route::post('/posts/{id}/hide', [PostController::class, 'hidePost'])->name('posts.hide');
+
 
 /******************************************************Groups
 
